@@ -44,7 +44,9 @@ DISCORD_TOKEN=ваш_токен_бота
 start_bot.sh
 ```
 На Windows
-Запустить файл start_bot.bat
+```bash
+start_bot.bat
+```
 
 ## Команды
 
