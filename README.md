@@ -1,4 +1,4 @@
-# Discord Music Bot
+# Discord Youtube Music Bot
 
 Музыкальный бот для Discord с поддержкой YouTube и плейлистов. 
 Создавал для себя при помощи Cursor AI (ChatGPT, Deepseek). 
